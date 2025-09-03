@@ -1,3 +1,6 @@
+#Landen Tillman
+#pythonapp assignment.py
+#This app calculates if you have made honor roll or made the Deans list or noth,king at all
 GPA = float(input("your GPA: "))
 name = input("your name: ")
 last_name = input("your last name: ")
